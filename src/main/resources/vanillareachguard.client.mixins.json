@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "com.raffe.vanillareachguard.mixin",
+  "package": "com.vanillareachguard.mixin",
   "compatibilityLevel": "JAVA_21",
   "client": [
     "ClientPacketListenerMixin",
