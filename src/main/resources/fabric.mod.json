@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "vanillareachguard",
+  "version": "${version}",
+  "name": "Vanilla Reach Guard",
+  "description": "Client-side guard that clamps suspicious reach and interaction attempts back to vanilla Minecraft distances.",
+  "authors": [
+    "RTM"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.vanillareachguard.VanillaReachGuardClient"
+    ]
+  },
+  "mixins": [
+    {
+      "config": "vanillareachguard.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "minecraft": "${minecraft_version}",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
