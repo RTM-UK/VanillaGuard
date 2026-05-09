@@ -1,7 +1,7 @@
-package com.raffe.vanillareachguard.mixin;
+package com.vanillareachguard.mixin;
 
-import com.raffe.vanillareachguard.CombatGuard;
-import com.raffe.vanillareachguard.ReachGuard;
+import com.vanillareachguard.CombatGuard;
+import com.vanillareachguard.ReachGuard;
 import net.minecraft.client.multiplayer.ClientCommonPacketListenerImpl;
 import net.minecraft.client.Minecraft;
 import net.minecraft.network.protocol.Packet;
