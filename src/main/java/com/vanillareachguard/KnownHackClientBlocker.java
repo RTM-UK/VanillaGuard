@@ -1,4 +1,4 @@
-package com.raffe.vanillareachguard;
+package com.vanillareachguard;
 
 import net.fabricmc.loader.api.FabricLoader;
 import net.fabricmc.loader.api.ModContainer;
