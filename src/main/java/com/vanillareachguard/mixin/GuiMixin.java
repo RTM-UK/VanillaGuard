@@ -1,6 +1,6 @@
-package com.raffe.vanillareachguard.mixin;
+package com.vanillareachguard.mixin;
 
-import com.raffe.vanillareachguard.CheatWarningOverlay;
+import com.vanillareachguard.CheatWarningOverlay;
 import net.minecraft.client.DeltaTracker;
 import net.minecraft.client.gui.Gui;
 import net.minecraft.client.gui.GuiGraphics;
