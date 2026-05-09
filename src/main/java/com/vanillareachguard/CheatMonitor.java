@@ -1,4 +1,4 @@
-package com.raffe.vanillareachguard;
+package com.vanillareachguard;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.player.LocalPlayer;
