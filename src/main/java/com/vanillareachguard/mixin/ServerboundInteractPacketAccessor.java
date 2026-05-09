@@ -1,4 +1,4 @@
-package com.raffe.vanillareachguard.mixin;
+package com.vanillareachguard.mixin;
 
 import net.minecraft.network.protocol.game.ServerboundInteractPacket;
 import org.spongepowered.asm.mixin.Mixin;
