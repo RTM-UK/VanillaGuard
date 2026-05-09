@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.raffe.vanillareachguard.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ClientPacketListenerMixin",
+    "EntityMixin",
+    "GuiMixin",
+    "MultiPlayerGameModeMixin",
+    "PlayerMixin",
+    "ServerboundInteractPacketAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
